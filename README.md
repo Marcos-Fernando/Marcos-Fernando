@@ -1,7 +1,7 @@
 ### Olá! Me chamo Marcos Fernando 👋
 
 - 💻 Estou estudando web design para futuramente trabalhar com Front-end
-- 🎓 Estou cursando o 7° semestre de Sitema de Informação na Universiade Estadual do Pará - UFPA
+- 🎓 Estou cursando o último semestre de Sitema de Informação na Universiade Estadual do Pará - UFPA
 - 💬 Sou meio timido, mas já estou tentando mudar isso e desenvolver mais minha comunicação
 - 🎮 Gosto de vê anime ou jogar (jogos eletrônicos) no tempo livre
 - 🖥 Meu Lattes: http://lattes.cnpq.br/0135541040353657
