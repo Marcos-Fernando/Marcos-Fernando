@@ -1,9 +1,9 @@
 ### Olá! Me chamo Marcos Fernando 👋
 
-- 💻 Estou estudando web design e busco estágio ou traineer na área de Front-end
-- 🎓 Estou cursando o último semestre de Sitema de Informação na Universiade Estadual do Pará - UFPA
-- 💬 Sou meio timido, mas já estou tentando mudar isso e desenvolver mais minha comunicação
-- 🎮 Gosto de vê anime ou jogar (jogos eletrônicos) no tempo livre
+- 💻 Estudando Web Design e buscando uma oportunidade para estágiar ou partcipar de traineer na área de Front-end
+- 🎓 Finalizando o curso de Sistema de Informação na Universiade Estadual do Pará - UFPA
+- 💬 Sou meio timido, mas quando tenho intimidade é difícil parar de falar hahaha
+- 🎮 Gosto de vê animes e de jogos eletrônicos
 - 🖥 Meu Lattes: http://lattes.cnpq.br/0135541040353657
 - 😄 Pronouns: ele/dele
  
