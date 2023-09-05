@@ -46,13 +46,13 @@
       <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+<br>
 
 ## Com o que estou trabalhando
 <div>
   <a href="https://github.com/Marcos-Fernando">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Fernando&layout=compact&langs_count=7&theme=merko"/>
 </div> 
-<br>
 
 ## Como me contatar
 <div>
