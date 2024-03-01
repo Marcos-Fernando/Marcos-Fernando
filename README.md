@@ -1,11 +1,9 @@
 ## Sobre mim
 
-### Olá! Me chamo Marcos Fernando Soares Costa 👋
-
-- 💻  Atualmente trabalhando como pesquisador e programador fullstack
+- 💻  Pesquisador e programador fullstack
 - 🎓  Formado em Sistema de Informação pela Universiade Estadual do Pará - UFPA.
-- 🎓  Cursando mestrado em Ciência da computação na UFPA
-- 🖥   Meu Lattes: http://lattes.cnpq.br/0135541040353657
+- 🎓  Cursando mestrado em Ciência da computação na pelo PPGCC na UFPA
+- 🖥  Lattes: http://lattes.cnpq.br/0135541040353657
 <br>
  
  ## 📚 O que sei
