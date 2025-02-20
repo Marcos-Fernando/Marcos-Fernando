@@ -1,7 +1,18 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<br><br><br>
+ <p align="left">
+    👋 Hello! My name is <strong>Marcos Fernando</strong>. I hold a degree in <strong>Information Systems</strong> from <strong>UFPA</strong>  
+    and I am currently a master's student at the <strong>PPGC/UFPA</strong>.  <br>
+    I work as a researcher in <strong>Bioinformatics</strong> and a <strong>Full Stack</strong> developer, 
+    focusing on developing a platform for annotating <strong>transposable elements</strong>. <br>
+    My work involves implementing <strong>computational pipelines</strong> and 
+    web technologies to facilitate genomic analysis in plants.
+ </p>
+<br><br><br>
+
+
 <section align="center">
  
-## Pleasure Marcos Costa, researcher and fullstack programmer
-
 ## Skills 
 
 **Main Skills**<br>
