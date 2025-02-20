@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br><br><br>
- <p align="left">
+ <p style="align:"left; text-justify: auto;">
     👋 Hello! My name is <strong>Marcos Fernando</strong>. I hold a degree in <strong>Information Systems</strong> from <strong>UFPA</strong>  
     and I am currently a master's student at the <strong>PPGC/UFPA</strong>.  <br>
     I work as a researcher in <strong>Bioinformatics</strong> and a <strong>Full Stack</strong> developer, 
