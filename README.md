@@ -2,12 +2,7 @@
  
 ## Pleasure Marcos Costa, researcher and fullstack programmer
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcos-Fernando&theme=merko)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcos-Fernando&theme=merko) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Marcos-Fernando&theme=tokyonight&hide_border=true)
-![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcos-Fernando&theme=merko)
-
- ## Skills 
+## Skills 
 
 **Main Skills**<br>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
@@ -31,6 +26,11 @@
    <a href="www.linkedin.com/in/marcos-costa-64684b1ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  ##
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Marcos-Fernando&theme=merko)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Marcos-Fernando&theme=merko) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Marcos-Fernando&theme=tokyonight&hide_border=true)
+![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marcos-Fernando&theme=merko)
+
 </section>
 
  ## Main Projects on this repository
