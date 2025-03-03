@@ -11,7 +11,7 @@
 
  **Social network** <br>
    <a href="http://lattes.cnpq.br/0135541040353657" target="_blank"><img src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge&logo=drupal&logoColor=white" target="_blank"></a>
-   <a href = "marcosnandosc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "mailto:marcosnandosc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/marcos-costa-64684b1ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br><br>
 
