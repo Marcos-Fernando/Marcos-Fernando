@@ -1,15 +1,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <br><br>
  <p align="left">
-    👋 Hello! My name is <strong>Marcos Fernando</strong>. I hold a degree in <strong>Information Systems</strong> from <strong>UFPA</strong>  
-    and I am currently a master's student at the <strong>PPGC/UFPA</strong>. 
-    I work as a researcher in <strong>Bioinformatics</strong> and a <strong>Full Stack</strong> developer, 
-    focusing on developing a platform for annotating <strong>transposable elements</strong>.
-    My work involves implementing <strong>computational pipelines</strong> and 
-    web technologies to facilitate genomic analysis in plants.
+   # Hi, I'm Marcos Fernando 👋
+
+   PhD candidate in Computer Science at UFPA (PPGCOMP), with a background in Information Systems and a Master's in Computer Science.
+    
+   I work as a **Bioinformatics researcher** and **Full Stack developer**, building computational pipelines and web tools to support genomic analysis.
  </p>
 
- **Social network** <br>
+ ### 🔬 Research
+- Bioinformatics & Genomic Data Analysis
+- Computational pipelines for transposable element annotation
+
+ ### 📫 Contact
    <a href="http://lattes.cnpq.br/0135541040353657" target="_blank"><img src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge&logo=drupal&logoColor=white" target="_blank"></a>
    <a href = "mailto:marcosnandosc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/marcos-costa-64684b1ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -21,7 +24,7 @@
 ## Skills 
 
 **Main Skills**<br>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 
 **I'm also learning** <br>
