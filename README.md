@@ -19,9 +19,8 @@
 I'm a **PhD candidate in Computer Science** at UFPA (PPGCOMP), bridging the gap between **computational biology** and **software engineering**. My work focuses on developing tools and pipelines that make genomic data analysis more accessible and reproducible.
 
 - 🎓 Background in **Information Systems** + **Master's in Computer Science**
-- 🧬 Researching **transposable element annotation** in plant genomes
-- 🛠️ Building **web-based bioinformatics tools** used by researchers
-- 🌱 Currently deepening skills in **TypeScript**, **Flask**, and **cloud-native pipelines**
+- 🛠️ **Development** of web-based bioinformatics tools
+- 🌱 Currently deepening knowledge and **data analysis**
 
 ---
 
