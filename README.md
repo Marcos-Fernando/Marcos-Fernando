@@ -43,7 +43,7 @@ I'm a **PhD candidate in Computer Science** at UFPA (PPGCOMP), bridging the gap 
 
 | Area | Focus |
 |------|-------|
-| 🧬 Bioinformatics | Genomic data analysis & transposable element annotation |
+| 🧬 Bioinformatics | Genomic data analysis |
 | ⚙️ Computational Pipelines | Automation of TE annotation workflows |
 | 🌐 Web Bioinformatics | Accessible web interfaces for genomics tools |
 
