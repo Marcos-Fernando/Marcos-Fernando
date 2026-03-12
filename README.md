@@ -91,11 +91,11 @@ I'm a **PhD candidate in Computer Science** at UFPA (PPGCOMP), bridging the gap 
 </div>
 
 ### 🧬 [EDTA-GUI](https://github.com/Marcos-Fernando/EDTA-GUI)
-> A graphical web interface for the EDTA transposable element annotation pipeline
-
-A user-friendly GUI built on top of the EDTA tool, enabling researchers without command-line expertise to run complex TE annotation workflows directly from the browser.
-
-`Python` `Flask` `Perl` `HTML/CSS/JS` `Docker`
+> Unified platform combining EDTA and AnnoTEP for transposable element annotation in plant genomes
+ 
+An integrated solution that merges the EDTA pipeline with the AnnoTEP annotation mode, with a primary focus on improving TE annotation quality in plant genomes. Offers both a graphical web interface and a command-line interface, making it accessible to researchers regardless of their technical background.
+ 
+`Python` `Flask` `Perl` `HTML/CSS/JS` `Docker` `Singularity`
 
 ---
 
@@ -104,7 +104,7 @@ A user-friendly GUI built on top of the EDTA tool, enabling researchers without 
 
 A complete web platform for TE annotation in plant genomes, integrating multiple bioinformatics tools into a single, reproducible pipeline.
 
-`Python` `Flask` `Perl` `HTML/CSS/JS` `Docker`
+`Python` `Flask` `Perl` `HTML/CSS/JS` `Docker` `Singularity`
 
 ---
 
