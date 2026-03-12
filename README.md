@@ -11,15 +11,9 @@
 
 ### PhD Candidate · Bioinformatics Researcher · Full Stack Developer
 
-<a href="http://lattes.cnpq.br/0135541040353657" target="_blank">
-  <img src="https://img.shields.io/badge/Lattes-0678BE?style=flat-square&logo=drupal&logoColor=white"/>
-</a>
-<a href="mailto:marcosnandosc@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/marcos-costa-64684b1ab/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+<a href="http://lattes.cnpq.br/0135541040353657" target="_blank"><img src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge" target="_blank"></a>
+<a href = "mailto:marcosnandosc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcos-costa-64684b1ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
 
@@ -53,31 +47,30 @@ I'm a **PhD candidate in Computer Science** at UFPA (PPGCOMP), bridging the gap 
 
 **Core Development**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"/> 
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 **Bioinformatics & Scripting**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+<img alt="Perl" src="https://img.shields.io/badge/perl-%2339457E.svg?&style=for-the-badge&logo=perl&logoColor=white"/>
+<img alt="Flask" src="https://img.shields.io/badge/flask-%23323330.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
 
 **Expanding**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white)
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="Drupal" src="https://img.shields.io/badge/drupal-%230678BE.svg?&style=for-the-badge&logo=drupal&logoColor=white"/>
 
 **Data & Infrastructure**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
 ---
@@ -95,15 +88,6 @@ I'm a **PhD candidate in Computer Science** at UFPA (PPGCOMP), bridging the gap 
  
 An integrated solution that merges the EDTA pipeline with the AnnoTEP annotation mode, with a primary focus on improving TE annotation quality in plant genomes. Offers both a graphical web interface and a command-line interface, making it accessible to researchers regardless of their technical background.
  
-`Python` `Flask` `Perl` `HTML/CSS/JS` `Docker` `Singularity`
-
----
-
-### 🌿 [AnnoTEP](https://github.com/Marcos-Fernando/AnnoTEP_v1)
-> End-to-end transposable element annotation platform for plant genomes
-
-A complete web platform for TE annotation in plant genomes, integrating multiple bioinformatics tools into a single, reproducible pipeline.
-
 `Python` `Flask` `Perl` `HTML/CSS/JS` `Docker` `Singularity`
 
 ---
