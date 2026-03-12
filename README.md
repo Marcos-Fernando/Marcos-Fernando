@@ -19,7 +19,11 @@
 
 ---
 
+<div align="center">
+
 ## 👨‍🔬 About Me
+
+</div>
 
 I'm a **PhD candidate in Computer Science** at UFPA (PPGCOMP), bridging the gap between **computational biology** and **software engineering**. My work focuses on developing tools and pipelines that make genomic data analysis more accessible and reproducible.
 
@@ -30,7 +34,6 @@ I'm a **PhD candidate in Computer Science** at UFPA (PPGCOMP), bridging the gap 
 
 ---
 
-<br>
 <div align="center">
  
 ## 🔬 Research Interests
@@ -40,8 +43,6 @@ I'm a **PhD candidate in Computer Science** at UFPA (PPGCOMP), bridging the gap 
 | 🧬 Bioinformatics | Genomic data analysis |
 | ⚙️ Computational Pipelines | Automation |
 | 🌐 Web Bioinformatics | Accessible web interfaces for genomics tools |
-
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -75,8 +76,6 @@ I'm a **PhD candidate in Computer Science** at UFPA (PPGCOMP), bridging the gap 
 
 ---
 
-<br>
-
 <div align="center">
  
 ## 🚀 Featured Projects
@@ -91,8 +90,6 @@ An integrated solution that merges the EDTA pipeline with the AnnoTEP annotation
 `Python` `Flask` `Perl` `HTML/CSS/JS` `Docker` `Singularity`
 
 ---
-
-<br>
 
 <div align="center">
 
