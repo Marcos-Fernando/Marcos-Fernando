@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-███╗   ███╗ █████╗ ██████╗  ██████╗ ██████╗ ███████╗
-████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔═══██╗██╔════╝
-██╔████╔██║███████║██████╔╝██║     ██║   ██║███████╗
-██║╚██╔╝██║██╔══██║██╔══██╗██║     ██║   ██║╚════██║
-██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗╚██████╔╝███████║
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
-```
-
 ### PhD Candidate · Bioinformatics Researcher · Full Stack Developer
 
 <a href="http://lattes.cnpq.br/0135541040353657" target="_blank"><img src="https://img.shields.io/badge/Lattes-blue?style=for-the-badge" target="_blank"></a>
